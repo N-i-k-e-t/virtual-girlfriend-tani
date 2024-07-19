@@ -1,1 +1,1 @@
-# virtual-girlfriend-app
+# virtual-girlfriend-tani
