@@ -1,1 +1,1 @@
-# AI_GFF
+# virtual-girlfriend-app
